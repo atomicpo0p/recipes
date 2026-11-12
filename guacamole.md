@@ -2,7 +2,7 @@
 ## Ingredients
 *advacado
 *lemon
-*sal
-*peppert
+*saltS
+*pepper
 ## Instructions
 *add lemon 
