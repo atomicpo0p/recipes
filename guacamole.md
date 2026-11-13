@@ -10,5 +10,5 @@
 *add lemon 
 *dance to the rain gods
 *mix
-*spread
+*spread on bread
 *eat 
