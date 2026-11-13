@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingredients
-*advacado
+*av0cado
 *lemon
 *saltS
 *pepper
